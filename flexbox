@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.content {
+    flex: 2;
+    background: lightblue;
+    padding: 20px;
+}
+
+.sidebar {
+    flex: 1;
+    background: lightgray;
+    padding: 20px;
+}
